@@ -2,6 +2,10 @@
 
 <img src="./Images/CatBurner.png">
 
+<img src="./Images/CatBurner-Printed.png">
+
+Sorry for the bad quality, it was printed on and ender 3 c:
+
 With love, from Suzuki
 
 UwU
